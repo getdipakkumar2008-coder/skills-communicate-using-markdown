@@ -18,4 +18,4 @@ const myVar = "Hello, World!";
 ```
 
 ## Image
-<img src="https://octodex.github.com/images/blacktocat.png" alt="GitHub Blacktocat - single black tiger cat mascot">
+<img src="https://octodex.github.com/images/original.png" alt="GitHub original Octocat mascot">
