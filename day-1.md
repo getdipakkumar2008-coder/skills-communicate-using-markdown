@@ -14,8 +14,8 @@ I wrapped up by checking what I finished and what still needs attention.
 
 ## Code Example
 ```javascript
-var myVar = "Hello, World!";
+const myVar = "Hello, World!";
 ```
 
 ## Image
-<img src="https://octodex.github.com/images/original.png">
+<img src="https://octodex.github.com/images/original.png" alt="GitHub Octocat mascot">
